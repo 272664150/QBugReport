@@ -11,3 +11,5 @@ line 18: Default upload server URL
 2. ReportUtils.java
 ##
 line 65: Customize the call upload interface
+
+3. Consider switch to dynamic BroadcastReceiver and WorkManager
