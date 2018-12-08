@@ -61,7 +61,7 @@ public class ReportUtils {
         Executors.newSingleThreadExecutor().submit(new Runnable() {
             @Override
             public void run() {
-                // TODO 调用上传接口
+                // TODO Customize the call upload interface
                 // Constant.DEFAULT_URL_UPLOAD_TO_SERVER
             }
         });

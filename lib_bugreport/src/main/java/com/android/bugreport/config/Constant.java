@@ -14,6 +14,6 @@ public class Constant {
     public static final String ANR_DIRECTORY_PATH = "/data/anr/";
     public static final String ACTION_ALARM_UPLOAD_REPORT_INFO = "action.alarm.UPLOAD_REPORT_INFO";
 
-    //TODO 默认上传的服务器URL
+    //TODO Default upload server URL
     public static String DEFAULT_URL_UPLOAD_TO_SERVER = "";
 }
